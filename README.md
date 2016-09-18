@@ -1,1 +1,1 @@
-# angular2-course
+# Deploy-to-Azure-using-GitHub
